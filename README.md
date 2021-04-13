@@ -1,4 +1,4 @@
-# Rust BlockChain
+# Rust BlockChain [中文](./README_CN.md)
 
 A simple blockchain implementation on Rust, which includes directories from 1 to 8. The first one is a basic implementation, the last one is the most complete。
 
